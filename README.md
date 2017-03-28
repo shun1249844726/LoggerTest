@@ -16,9 +16,8 @@
 3. 重新启动手机
 
 
-```
-compile 'com.orhanobut:logger:1.15'
-
+``` java
+compile 'com.orhanobut:logger:1.15' 
 ```
 
 ```java

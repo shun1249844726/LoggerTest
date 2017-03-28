@@ -21,7 +21,7 @@ compile 'com.orhanobut:logger:1.15'
 
 ```
 
-```
+```java
 package com.lexinsmart.xushun.loggertest;
 
 
